@@ -13,8 +13,7 @@
 * Combined images, and did other general-purpose image manipulation, using
   IrfanView, found at https://www.irfanview.com/
 
-* Created map backgrounds and whatnot out of tilesets using Tiled, found at
-  https://thorbjorn.itch.io/tiled
+* Created the world map using Tiled, found at https://thorbjorn.itch.io/tiled
 
 * Decided upon theme (Murder Mystery) and setting (Dark Fantasy), using the Story Theme
   and Setting Generator, found at https://letsmakeagame.net/story-theme-and-setting-generator/
