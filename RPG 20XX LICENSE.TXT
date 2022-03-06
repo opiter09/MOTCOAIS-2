@@ -1,0 +1,23 @@
+=== Sounds ===
+
+The sounds included are Creative Commons 0 (CC0, public domain) clips from freesound.org
+
+=== Music ===
+
+Some MIDI tracks from: http://www.mightymidi.com/
+Some MIDI tracks from: http://www.tannerhelland.com/music-directory/
+
+=== Images ===
+
+Some image material were taken from different sources:
+
+Imp, Spider, and Wolf battler enemy picture - Stephen "Redshrike" Challener and William / http://opengameart.org/users/williamthompsonj
+
+For all the other image materials:
+
+By using any of the material that was created by Torin Adamson (a.k.a. WolfCoder) (a.k.a. WolfCoder Workshop) (a.k.a. Sayuri L. Kitsune)
+You agree to the terms and conditions of the Creative Commons Attribution-NonCommercial 4.0 International Public License.
+
+View this license here:
+
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
