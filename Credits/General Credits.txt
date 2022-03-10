@@ -10,8 +10,8 @@
 * Split images using the Multi-Purpose Graphics Splitter, found at
   https://www.ascensiongamedev.com/files/file/16-multi-purpose-graphic-splitter/
 
-* Combined images, and did other general-purpose image manipulation, using
-  IrfanView, found at https://www.irfanview.com/
+* Combined images, and did a ridiculous amount of other general-purpose
+  image manipulation, using IrfanView, found at https://www.irfanview.com/
 
 * Created the world map using Tiled, found at https://thorbjorn.itch.io/tiled
 
